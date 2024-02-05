@@ -16,16 +16,19 @@
 data.py 产生数据集，读取数据集
 Gabor.py 利用Gabor滤波尝试实现,并在数据集FER2013、JAFFE和CK+上评估
 LBP.py 使用LBP+SVM实现表情识别,并在数据集FER2013、JAFFE和CK+上评估
+config.py 全局设置
 main.py 功能实现图片的表情识别
 model.py 构建CNN模型（包括CNN1、CNN2、CNN3）
 paper.py 绘制结果部分图像（工具包）
 preprocess.py 用于图片预处理原图（添加噪声后、均值滤波后、中值滤波后、自适应中值滤波后、直方图均衡化、自适应直方图均衡化）
 recognition.py 表情预测处理![](./output/happy1.png)
 recognition_camera.py 利用摄像头实时检测、视屏流的检测
+setup.py 版本更新
 test.py 图片测试
 train.py 训练脚本
 utils.py 工具包
 visualize.py 可视化训练过程
+
 
 ## 环境部署
 基于Python3.8.5和Keras2（TensorFlow后端）
