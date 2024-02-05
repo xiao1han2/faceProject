@@ -1,7 +1,7 @@
 # faceProject
 
 # 说明
-模型和数据集下载链接，作者建议用训练好的ck模型
+模型和数据集下载链接，作者建议用训练好的ck模型，解压在与src目录平级。
 链接：https://pan.baidu.com/s/1N3PX6uTeSoU_otNSYCuS-A?pwd=1123 
 提取码：1123
 
